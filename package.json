@@ -1,0 +1,31 @@
+{
+  "name": "google-civic-proxy",
+  "version": "1.0.0",
+  "description": "google civic request proxy",
+  "main": "lib/Civic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nf071590/google-civic-proxy.git"
+  },
+  "keywords": [
+    "google",
+    "civic",
+    "api",
+    "request",
+    "proxy",
+    "key"
+  ],
+  "author": "nicolas fiorini nf071590@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nf071590/google-civic-proxy/issues"
+  },
+  "homepage": "https://github.com/nf071590/google-civic-proxy#readme",
+  "dependencies": {
+    "object-assign-deep": "0.0.4",
+    "request": "^2.69.0"
+  }
+}
